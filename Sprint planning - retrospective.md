@@ -28,7 +28,7 @@ All and all we are happy how this sprint went, The communcation between us two w
 - Implement continous intergration / front-end testing
 
 ### Retrospective
-
+- Negative
 - collaborating on same tasks:
   Working on the exact same functionality.
 - planning: 
@@ -37,6 +37,7 @@ All and all we are happy how this sprint went, The communcation between us two w
   instead of only using word/docs document it
   in your portfolio.
 
+- Positive
 - communication:
   keep our promises and the way of working.
 - balanced:
@@ -46,6 +47,7 @@ All and all we are happy how this sprint went, The communcation between us two w
  screen sharing and calling.
  
 We decided to try a new Retrospective which we made ourselves: the Clash royale retrospective.
+On the left side you can see the positive things in green and on the right side you see the negative things in red. The opponent (upper half) and us (lower half) both have towers how closer the text is by a tower how bigger the issue or how better the succes is.
 
 <img src="https://user-images.githubusercontent.com/124791770/228497735-fa89448b-83c8-44e4-9eda-7fbff65db66c.png" alt="Image description" width="200" height="300">
 
