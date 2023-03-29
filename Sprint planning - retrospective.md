@@ -29,22 +29,22 @@ All and all we are happy how this sprint went, The communcation between us two w
 We decided to try a new Retrospective which we made ourselves the Clash royale retrospective.
 
 legend:
+<span style="color:red">-collaborating on same tasks:
+Working on the exact same functionality.
+-planning: 
+Keep the planning up to date and structured.
+-documentation
+instead of only using word/docs document it
+in your portfolio.</span>
 
-collaborating on same tasks:
--Working on the exact same functionality.
-planning: 
--Keep the planning up to date and structured.
-documentation
--instead of only using word/docs document it
--in your portfolio.
 
-communication
-+keep our promises and the way of working.
+<span style="color:green">communication
+-keep our promises and the way of working.
 balanced
-+Both of us serve an equal amount of work.
+-Both of us serve an equal amount of work.
 online
-+the way of working online for example
-+screen sharing and calling.
+-the way of working online for example
+ screen sharing and calling.</span>
 
 
 We achieved nearly all the goals we set for this sprint. We didn't end up fully completing user storie 1
