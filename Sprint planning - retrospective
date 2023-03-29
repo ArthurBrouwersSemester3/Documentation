@@ -29,40 +29,26 @@ We decided to try a new Retrospective which we made ourselves the Clash royale r
 
 legend:
 
-+collaborating on same tasks:
-+Working on the exact same functionality.
-+planning: 
-+Keep the planning up to date and structured.
-+documentation
-+instead of only using word/docs document it
-+in your portfolio.
+collaborating on same tasks:
+-Working on the exact same functionality.
+planning: 
+-Keep the planning up to date and structured.
+documentation
+-instead of only using word/docs document it
+-in your portfolio.
 
 communication
-keep our promises and the way of working.
++keep our promises and the way of working.
 balanced
-Both of us serve an equal amount of work.
++Both of us serve an equal amount of work.
 online
-the way of working online for example
-screen sharing and calling.
++the way of working online for example
++screen sharing and calling.
 
 
 We achieved nearly all the goals we set for this sprint. We didn't end up fully completing user storie 1
 we are happy how this sprint went, We made a great start with our frond-end and are happy with how it is looking at this moment.
 
 
-## Sprint 3 (31-10-2022 - 18-11-2022)
-### Goals
-- Unit Testing on the User-Preferences API
-- Integrate automatic unit testing in the CI/CD
-- Add some security to the User-Preferences API
-- Add Side-Bar to Front-End
-
-### Problems/Questions
-- How can we best add security to the User-Preferences API?
-- How do we unit test the User-Preferences API without touching the database?
-- What kind of other tests should we add to our project? Why and how?
-
-### Retrospective
-The beginning of this sprint went a bit rough as we didn't have the right priorities. We went straight to building the Integrations-API instead of fixing problems that already existed. We solved this problem by first looking back at the problems we had (authentication, code smells, better issue overview), after solving these problems, we still had some time to start working on the Integrations-API.
 
 
