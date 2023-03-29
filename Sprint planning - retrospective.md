@@ -45,7 +45,9 @@ All and all we are happy how this sprint went, The communcation between us two w
  the way of working online for example
  screen sharing and calling.
  
-We decided to try a new Retrospective which we made ourselves the Clash royale retrospective.
+We decided to try a new Retrospective which we made ourselves: the Clash royale retrospective.
+
+<img src="https://user-images.githubusercontent.com/124791770/228497735-fa89448b-83c8-44e4-9eda-7fbff65db66c.png" alt="Image description" width="200" height="300">
 
 We achieved nearly all the goals we set for this sprint. We didn't end up fully completing user storie 1
 we are happy how this sprint went, We made a great start with our frond-end and are happy with how it is looking at this moment.
