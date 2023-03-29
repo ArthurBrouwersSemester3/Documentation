@@ -16,13 +16,13 @@
 
 In sprint I we used the start,stop and go retrospective.
 
-We achieved  all the goals we set for this sprint.
-All and all we are happy how this sprint went, The communcation between us two went great and we nearly achieved everything we wanted to.
+We achieved all the goals we set for this sprint.
+All and all we are happy how this sprint went. The communcation between us two went great and we nearly achieved everything we wanted to.
 
 ## Sprint 2 (26/9/2022 - 21/10/2022)
 ### Goals
- - US1: There must be a page with a graph that shows the average crowd per day, per hour in the selected
-    -  You click on a dropdown and select Basic fit Eindhoven.
+ - US1: There must be a page with a graph that shows the average crowd per day, per hour in the selected gym
+    - You click on a dropdown and select Basic fit Eindhoven.
     - You click search and it redirects you to a page with a graph that shows how busy it is per day and per hour in basic fit Eindhoven.
 - Tutorial continuous intergration / front-end
 - Implement continous intergration / front-end testing
