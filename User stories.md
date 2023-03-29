@@ -1,6 +1,6 @@
 # In this page we have set up some user stories.
 
-The user stories determines what we want in our application.
+The user stories determines what is going to end up in our application.
 
 ## Userstories
 - As a (potential) gym member I want to select a specific gym and view how busy it is by a graph.
