@@ -15,7 +15,7 @@ Both of us wrote down what we considered important in the framework, which were 
 
 We found the pros and cons of each framework:
 
-- Angular:
+## Angular:
 
 Pros:
 Flexibility — Angular is a cross-platform framework, so you are not limited by your browser; you can also compile and execute applications at the server side or across different environments with the help of third-party libraries, e.g. NativeScript.
@@ -30,7 +30,7 @@ Cons:
 Hard to learn — developers agree that the Angular framework is more complicated compared to React or Vue, and the documentation may be confusing.
 Heavy — due to its complexity, Angular is heavier than React, which can negatively impact dynamic apps, and code optimization will be required.
 
-- React:
+## React:
 
 Pros:
 Easy to learn — this is a very simple framework, especially for those who are familiar with frontend and JavaScript. In addition, there are many comprehensive tutorials available.
@@ -44,7 +44,7 @@ Cons:
 Poor documentation — due to the rapid development and frequent updates in React technologies, it’s hard to prepare thorough documentation.
 JSX complexity — it often takes time to gain insight into the JSX feature.
 
-- Vue:
+## Vue:
 
 Pros:
 Easy to learn — the framework syntax is comprehensible even to beginners; prior knowledge of JavaScript, HTML, CSS is sufficient.
@@ -58,7 +58,7 @@ Small community — since the development framework is relatively young, its com
 Linguistic challenges — many Vue components are written in Chinese, which can be an obstacle for developers from other regions.
 
 
-Conclusion
+## Conclusion
 Taking these points into account, we think easy to learn is the most important. That means that we will not use Angular since it's hard to learn compared to Vue and React. 
 We consider detailed documentation more important than a large community, because we can simply find more detailed information to learn the framework. 
 Therefore we have made the decision to use Vue.
