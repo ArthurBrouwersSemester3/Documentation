@@ -12,6 +12,11 @@ The user stories determines what is going to end up in our application.
   - 2.1 We have a consistent color scheme that we use in our logo and website.
   - 2.2 We have a recognizable logo containing the company name and what it does.
 
+- 3 As a gym member with a membership I want to see real time information.
+  - 3.1 You click on login and it redirects you to the login page.
+  - 3.2 You provide your credentials and click login.
+  - 3.3 you select a gym and you get real time information.
+
 - Definition of done
   - All code for the functionalities is written.
   - All functionalities have been tested.
