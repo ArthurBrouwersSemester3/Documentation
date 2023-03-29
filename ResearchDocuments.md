@@ -215,3 +215,8 @@ Fontys also adviced to use .NET or Java. So our conclusion matches this.
 We considered Java and C# the most, because they're used most in the real world.
 Since we both have experience with C#, we would like the challenge to learn Java.
 
+
+|Topic|Link|
+|:----|:--:|
+|Front-end|[🔗](https://docs.google.com/document/d/1FcSPYfOpofL5F_100IwEOF1PCGIBsGaKJo6o_Hl-EMo/edit?usp=sharing)|
+|Back-end|[🔗](https://docs.google.com/document/d/12H3scYrzKteGmO81OCrcXmpe4WQdXSHRZ8Nco2Ydc54/edit#heading=h.2q5g6xkttftv)|
