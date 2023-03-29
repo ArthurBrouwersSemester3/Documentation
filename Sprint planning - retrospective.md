@@ -51,7 +51,7 @@ On the left side you can see the positive things in green and on the right side 
 
 <img src="https://user-images.githubusercontent.com/124791770/228497735-fa89448b-83c8-44e4-9eda-7fbff65db66c.png" alt="Image description" width="200" height="300">
 
-We achieved nearly all the goals we set for this sprint. We didn't end up fully completing user storie 1
+We achieved nearly all the goals we set for this sprint. We didn't end up fully completing user story 1
 we are happy how this sprint went, We made a great start with our frond-end and are happy with how it is looking at this moment.
 
 
