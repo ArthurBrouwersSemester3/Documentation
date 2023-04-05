@@ -82,6 +82,19 @@ Negative
 
   We have worked for too long on one subject and did not make any progress. 
   We should realize earlier when to move on to a different subject.
+  
+Positve
+- Documentation
+
+This sprint, we created our group documentation. Before, we saved everything in a google docs document, but it is a better practice to save it in our github. 
+
+- Communication
+
+Both of us has kept our promises and was a reliable partner this sprint. We had frequent talks about the progress and what we were doing. 
+
+- Collaberating
+
+Last sprint, we had some issues regarding this topic. We worked on the exact same functionality and that slowed down the progress. This sprint, we decided to work on different functionalities and only work together if the other is in need of help. 
 
 <img src="https://user-images.githubusercontent.com/124791770/229052925-ce5aa119-36c5-4f4a-8378-a4d6a63fa56c.png" alt="Image description" width="200" height="300">
 
