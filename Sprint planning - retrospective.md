@@ -99,3 +99,38 @@ Last sprint, we had some issues regarding this topic. We worked on the exact sam
 <img src="https://user-images.githubusercontent.com/124791770/229052925-ce5aa119-36c5-4f4a-8378-a4d6a63fa56c.png" alt="Image description" width="200" height="300">
 
 We decided to use the Clash Royale method again, since it worked very well last time.
+
+
+## Sprint 4 (31/03/2023 - 14/04/2023)
+### Goals
+ - Research Java/IDE
+ - CI: not pushing when it fails
+ - Update portfolio
+
+## Retrospective 
+Negative
+- 1
+
+
+
+- 2
+
+
+
+- 3
+ 
+ 
+  
+Positve
+- 1
+
+
+
+- 2
+
+
+
+- 3
+
+
+
