@@ -19,6 +19,7 @@ The user stories determines what is going to end up in our application.
 
 - Definition of done
   - All code for the functionalities is written.
-  - All functionalities have been tested.
+  - All functionalities are named correctly (not using "test").
+  - Code has been reviewed by group member.
   - Important functionalities have a brief explanation in code.
 
