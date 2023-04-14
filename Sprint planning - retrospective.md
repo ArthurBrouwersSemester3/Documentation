@@ -126,7 +126,7 @@ If something goes a different route than planned, we did not have any problems a
 
 We invisioned CI to work a bit different than what we achieved. It still meets the requirements, so we accepted that our imagined functionilaty is not a priority. 
 
-<img src="![image](https://user-images.githubusercontent.com/124791770/231987082-bf33efb5-f9bf-4fbf-9967-db6278e7b1ac.png)" alt="Image description" width="200" height="300">
+<img src="https://user-images.githubusercontent.com/124791770/231987082-bf33efb5-f9bf-4fbf-9967-db6278e7b1ac.png" alt="Image description" width="200" height="300">
 
 For this retrospective, we used the Clash Royale method once again, since it worked very previous times.
 
