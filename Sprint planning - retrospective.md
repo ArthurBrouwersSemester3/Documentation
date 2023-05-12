@@ -1,6 +1,15 @@
 
 # Sprint planning
 
+|Sprint|Link|
+|:----|:--:|
+|Sprint 1|[🔗](https://github.com/ArthurBrouwersSemester3/Documentation/blob/main/ResearchDocuments/FrontendResearch.md)|
+|Sprint 2|[🔗](https://github.com/ArthurBrouwersSemester3/Documentation/blob/main/ResearchDocuments/BackendResearch.md)|
+|Sprint 3|[🔗](https://github.com/ArthurBrouwersSemester3/Documentation/blob/main/ResearchDocuments/FrontendResearch.md)|
+|Sprint 4|[🔗](https://github.com/ArthurBrouwersSemester3/Documentation/blob/main/ResearchDocuments/BackendResearch.md)|
+|Sprint 5|[🔗](https://github.com/ArthurBrouwersSemester3/Documentation/blob/main/ResearchDocuments/FrontendResearch.md)|
+|Sprint 6|[🔗](https://github.com/ArthurBrouwersSemester3/Documentation/blob/main/ResearchDocuments/BackendResearch.md)|
+
 ## Sprint 1 (17/02/2023 - 03/03/2023)
 ### Goals
 - Research front end
