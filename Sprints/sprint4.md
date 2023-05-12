@@ -26,4 +26,4 @@ We invisioned CI to work a bit different than what we achieved. It still meets t
 
 <img src="https://user-images.githubusercontent.com/124791770/231990266-485738b2-16a4-4567-93e5-71fe552ef12c.png" alt="Image description" width="400" height="300">
 
-For this retrospective, we used the Clash Royale method once again, since it worked very previous times.
+For this retrospective, we used the Clash Royale method once again, since it worked very good previous times.
