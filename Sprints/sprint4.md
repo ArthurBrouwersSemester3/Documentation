@@ -1,5 +1,5 @@
 ## Sprint 4 (31/03/2023 - 14/04/2023)
-### Goals
+### [Goals](https://github.com/orgs/ArthurBrouwersSemester3/projects/7/views/2)
  - Research Java/IDE
  - CI: not pushing when it fails
  - Update portfolio
