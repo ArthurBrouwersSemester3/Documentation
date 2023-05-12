@@ -1,5 +1,5 @@
 ## Sprint 3 (17/03/2023 - 31/03/2023)
-### Goals
+### [Goals](https://github.com/orgs/ArthurBrouwersSemester3/projects/11/views/1)
  - US1: There must be a page with a graph that shows the average crowd per day, per hour in the selected gym
     - You click search and it redirects you to a page with a graph that shows how busy it is per day and per hour in basic fit Eindhoven.
  - CI not pushing code when CI fails
