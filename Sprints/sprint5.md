@@ -4,8 +4,7 @@
  - Implement CD
  - Research static code analysis
  - Research docker
- - Research intergration and regression tests
- - Write intergration an regression tests
+ - Research and implement intergration and regression tests
  - Resolve code errors
  - Update portfolio
  - US1: There must be a page with a graph that shows the average crowd per day, per hour in the selected gym.
