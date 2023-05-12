@@ -33,6 +33,6 @@ While working on the project, some new task arise. This sprint we did a good job
 
 Instead of one person coding and the other one just looking, this sprint we made sure we both had our tasks. This way, we did not work together that much on the same specific tasks, which caused some delay in the past.
 
-<img src="https://github.com/ArthurBrouwersSemester3/Documentation/assets/124791770/0dd34a87-5a2d-49c3-b5dc-15c0ae274f60" alt="Image description" width="400" height="300">
+<img src="https://github.com/ArthurBrouwersSemester3/Documentation/assets/124791770/0dd34a87-5a2d-49c3-b5dc-15c0ae274f60" alt="Image description" width="400" height="400">
 
 For this retrospective, we used the Clash Royale method once again, since it worked very well previous times.
