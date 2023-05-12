@@ -1,5 +1,5 @@
 ## Sprint 1 (17/02/2023 - 03/03/2023)
-### Goals
+### [Goals](https://github.com/orgs/ArthurBrouwersSemester3/projects/9/views/1)
 - Research front end
 - think and document about how to achieve LO's
 - make user stories / acceptance criteria
