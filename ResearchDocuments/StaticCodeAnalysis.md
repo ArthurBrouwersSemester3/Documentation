@@ -4,7 +4,7 @@
 
 
 ## Sonarcloud:
-Our code gets tested for five different quality checks.
+Our code gets tested for four different quality checks.
 - Duplicated lines
  -  duplicate lines refer to identical or nearly identical lines of code that appear multiple times within a codebase.
 - Maintainability 
