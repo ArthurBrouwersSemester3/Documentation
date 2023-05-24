@@ -1,10 +1,7 @@
 # Static code analysis
+To maintan the quality of our code we use an static code analysis named Sonarcloud. This makes sure before we merge any changes into main and publish it onto docker the quality checks that we have set are met. This is done by four different kind of quality checks that have been explain further down below.
 
-
-
-
-## Sonarcloud:
-Our code gets tested for four different quality checks.
+## Sonarcloud quality checks:
 - Duplicated lines
  -  duplicate lines refer to identical or nearly identical lines of code that appear multiple times within a codebase.
 - Maintainability 
