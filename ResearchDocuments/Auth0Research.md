@@ -20,5 +20,5 @@ The flow of oauth2.0
 4.	application exchange auth codes for access tokens, which define the duration and what kind of access.
 5.	The Authorization Server validates the access token, and the application fetches the image that the user wants to edit from their Google Drive account.
 
-[oath2 0](https://github.com/ArthurBrouwersSemester3/Documentation/assets/95029345/59971466-4658-4abc-a9ad-c835ae74d279)
+![oath2 0](https://github.com/ArthurBrouwersSemester3/Documentation/assets/95029345/59971466-4658-4abc-a9ad-c835ae74d279)
 
