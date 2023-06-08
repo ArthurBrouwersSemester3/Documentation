@@ -1,24 +1,31 @@
-# What is auth0 and oath2.0
-
-Auth0 is an authentication and authorization platform that provides services to secure their applications. It simplifies the process of adding authentication and authorization to applications.
-With Auth0, you don’t need to build authentication infrastructure yourself.  You can quickly integrate Auth0 into applications. 
-OAuth 2.0 is an open protocol that enables secure authorization and access to protected resources. It is used by developers and companies to allow users to grant access to their data without sharing their information, like passwords with third-party applications.
-In my individual project I use auth0 for my authentication and then auth2.0 to secure the credentials.
-
-- when using oauth2.0 there are 4 actors involved:
- - Resources are protected data that require OAuth to access them.
- - Resource Owner: Owns the data in the resource server. An entity capable of granting access to protected data. For example, a user Google Drive account.
- - Resource Server: The API which stores the data (Google Drive.)
- - Client: It is a third-party application that wants to access your data
-
-
-The flow of oauth2.0
-1.	The resource owner wants to make a change to his photo you go to your application, tell the application that the photo is google drive (resource owner).
-
-2.	The application sends a request to the authorization server to access the photo. The oath2.0server asks the user to grant permissions.
-3.	Once the user allows third-party access and logs into the website using any log in method, the authorization server sends a short-lived authorization code to the application.
-4.	application exchange auth codes for access tokens, which define the duration and what kind of access.
-5.	The Authorization Server validates the access token, and the application fetches the image that the user wants to edit from their Google Drive account.
-
+## Research Document: Auth0 and OAuth 2.0
 ![oath2 0](https://github.com/ArthurBrouwersSemester3/Documentation/assets/95029345/59971466-4658-4abc-a9ad-c835ae74d279)
+### Definition
+Auth0 is an authentication and authorization platform that simplifies the process of adding authentication to applications. OAuth 2.0 is an open protocol that enables secure authorization and access to protected resources.
+
+### Overview
+In my individual project, I utilize Auth0 for authentication and OAuth 2.0 for securing user credentials and accessing resources. Let's explore the concepts of Auth0 and OAuth 2.0 and their roles in software development.
+
+### Description
+**Auth0**: Auth0 is an authentication and authorization platform that provides pre-built solutions for securing applications. By integrating Auth0, developers can save time and effort in building authentication infrastructure. It enhances security and user experience in applications.
+
+**OAuth 2.0**: OAuth 2.0 is an open protocol used by developers and organizations to enable secure authorization and access to protected resources. It allows users to grant access to their data without sharing sensitive information, such as passwords, with third-party applications.
+
+### Roles in OAuth 2.0
+OAuth 2.0 involves four key actors:
+1. **Resource**: The protected data that requires OAuth 2.0 for access. For example, user files stored in a resource server like Google Drive.
+2. **Resource Owner**: The entity that owns the data in the resource server and can grant access to it. In our case, the user who owns a Google Drive account.
+3. **Resource Server**: The API that stores the protected data and serves it to authorized clients. In our example, Google Drive acts as the resource server.
+4. **Client**: A third-party application that wants to access the protected resources on behalf of the resource owner. The client interacts with the authorization server to obtain permissions for accessing the resources.
+
+### Flow of OAuth 2.0
+The OAuth 2.0 flow consists of the following steps:
+1. **Resource Owner Authorization**: The resource owner initiates the process by accessing the client application and specifying the location of the desired resource.
+2. **Authorization Request**: The client application sends a request to the authorization server, requesting access to the resource. The authorization server prompts the user to grant permissions.
+3. **Authorization Code Exchange**: Upon granting permission and logging in, the authorization server generates a short-lived authorization code and sends it to the client application.
+4. **Access Token Acquisition**: The client application exchanges the authorization code for an access token that defines the duration and scope of access granted.
+5. **Resource Access**: With the access token, the client application can access the requested resource from the resource server and perform authorized operations.
+
+### Conclusion
+By utilizing Auth0 and OAuth 2.0 in my project, I ensure secure authentication and authorization processes. Auth0 simplifies the implementation of authentication mechanisms, while OAuth 2.0 enables secure access to protected resources. This approach enhances the software development process and reinforces security measures in my project.
 
