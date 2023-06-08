@@ -4,7 +4,7 @@
 Auth0 is an authentication and authorization platform that simplifies the process of adding authentication to applications. OAuth 2.0 is an open protocol that enables secure authorization and access to protected resources.
 
 ### Overview
-In my individual project, I utilize Auth0 for authentication and OAuth 2.0 for securing user credentials and accessing resources. Let's explore the concepts of Auth0 and OAuth 2.0 and their roles in software development.
+In our individual project, we utilize Auth0 for authentication and OAuth 2.0 for securing user credentials and accessing resources. Let's explore the concepts of Auth0 and OAuth 2.0 and their roles in software development.
 
 ### Description
 **Auth0**: Auth0 is an authentication and authorization platform that provides pre-built solutions for securing applications. By integrating Auth0, developers can save time and effort in building authentication infrastructure. It enhances security and user experience in applications.
@@ -27,5 +27,5 @@ The OAuth 2.0 flow consists of the following steps:
 5. **Resource Access**: With the access token, the client application can access the requested resource from the resource server and perform authorized operations.
 
 ### Conclusion
-By utilizing Auth0 and OAuth 2.0 in my project, I ensure secure authentication and authorization processes. Auth0 simplifies the implementation of authentication mechanisms, while OAuth 2.0 enables secure access to protected resources. This approach enhances the software development process and reinforces security measures in my project.
+By utilizing Auth0 and OAuth 2.0 in our project, we ensure secure authentication and authorization processes. Auth0 simplifies the implementation of authentication mechanisms, while OAuth 2.0 enables secure access to protected resources. This approach enhances the software development process and reinforces security measures in our project.
 
