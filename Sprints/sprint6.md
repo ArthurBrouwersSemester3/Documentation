@@ -1,4 +1,4 @@
-## Sprint 6 (12/05/2023 - 12/05/2023)
+## Sprint 6 (12/05/2023 - 26/05/2023)
 ### [Goals](https://github.com/orgs/ArthurBrouwersSemester3/projects/13/views/1)
  - Update portfolio
  - Run the docker container
