@@ -8,3 +8,4 @@
 |Sprint 4|[🔗](https://github.com/ArthurBrouwersSemester3/Documentation/blob/main/Sprints/sprint4.md)|
 |Sprint 5|[🔗](https://github.com/ArthurBrouwersSemester3/Documentation/blob/main/Sprints/sprint5.md)|
 |Sprint 6|[🔗](https://github.com/ArthurBrouwersSemester3/Documentation/blob/main/Sprints/sprint6.md)|
+|Sprint 7|[🔗](https://github.com/ArthurBrouwersSemester3/Documentation/blob/main/Sprints/sprint7.md)|
