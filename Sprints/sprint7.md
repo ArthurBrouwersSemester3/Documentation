@@ -1,4 +1,4 @@
-## Sprint 6 (12/05/2023 - 09/06/2023)
+## Sprint 6 (26/05/2023 - 09/06/2023)
 ### [Goals](https://github.com/orgs/ArthurBrouwersSemester3/projects/14/views/1)
  - Securing API call
  - Reseach ORM
